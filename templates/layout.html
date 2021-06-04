@@ -1,29 +1,18 @@
 <!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — SciPy Latin America 2021</title>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Scipy Latin America community board">
+    <title>SciPy Latin America 2021 - {% block title %} Bem-vindo!{% endblock %}</title>
+    <link rel="stylesheet" href="{{ '/static/dist/app.css'|asseturl }}">
+    <script type=text/javascript src="{{ '/static/webpack/app.js'|asseturl }}" charset="utf-8"></script>
+  </head>
 <body>
-  <header>
-    <h1>SciPy Latin America 2021</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
-        {% for href, title in [
-          ['/blog', 'Blog'],
-          ['/projects', 'Projects'],
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
-  <div class="page">
-    {% block body %}{% endblock %}
-  </div>
-  <footer>
-    &copy; Copyright 2021 by Camylle Lucena.
-  </footer>
-</body>
+    {% include "section-home.html" %}
+    {% include "section-covid.html" %}
+    {% include "section-sobre.html" %}
+    {% include "section-inscricao.html" %}
+  </body>
+</html>

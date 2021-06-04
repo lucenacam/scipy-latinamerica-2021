@@ -1,0 +1,75 @@
+@import "fonts";
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background: #fff;
+  min-height: 75rem;
+}
+
+.btn-inscricao {
+  @include button-variant(#3c3c3b, #3c3c3b, lighten(#3c3c3b, 20%), lighten(#3c3c3b, 20%));
+  color: #fff;
+  border-radius: 9px;
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size: 1 em;
+}
+
+#section-home, #section-sobre {
+  background-color: #fafafa;
+  background-image: linear-gradient(#f6f6f6,#fff);
+  height: 900px;
+
+  .scipy-title {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #00ad4a;
+    font-size: 3.75 em;
+  }
+
+  .scipy-description {
+    font-family: 'Lato', sans-serif;
+    font-size: 1 em;
+    color: #3c3c3b;
+  }
+}
+
+#section-covid {
+  background-color: #3c3c3b;
+  height: 900px;
+
+  .covid-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 1 em;
+    color: #fff;
+  }
+}
+
+#section-inscricao {
+  background-color: #3c3c3b;
+  height: 900px;
+
+  .inscricao-background {
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    margin: -175px 0 0 -175px;
+    height: 200px;
+    width: 350px;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .card-inscricao {
+    background-color: #00ad4a;
+    background-image: linear-gradient(#00ad4a,#00ee53);
+  }
+  .covid-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 1 em;
+    color: #fff;
+  }
+}
