@@ -7,12 +7,16 @@
     <meta name="author" content="Scipy Latin America community board">
     <title>SciPy Latin America 2021 - {% block title %} Bem-vindo!{% endblock %}</title>
     <link rel="stylesheet" href="{{ '/static/dist/app.css'|asseturl }}">
-    <script type=text/javascript src="{{ '/static/webpack/app.js'|asseturl }}" charset="utf-8"></script>
   </head>
 <body>
     {% include "section-home.html" %}
     {% include "section-covid.html" %}
     {% include "section-sobre.html" %}
     {% include "section-inscricao.html" %}
+    {% block bottom_scripts %}
+    <script type=text/javascript src="{{ '/static/dist/app.js'|asseturl }}" charset="utf-8"></script>
+    {{ generate_google_analytics() }}
+    {% endblock %}
+
   </body>
 </html>

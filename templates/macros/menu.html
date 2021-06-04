@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: transparent;">
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Sobre <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Participar</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Contato</a>
+      </li>
+    </ul>
+    <span class="navbar-text">
+        <img id="language-icon" src="{{ "/static/img/flag-pt.svg"|asseturl }}" width="30" height="30" alt="" style="margin-right: 2px;">
+    </span>
+    <ul class="navbar-nav my-2 my-lg-0">
+        <li class="nav-item">
+            <select data-width="fit" class="language-picker-select">
+                <option data-url="/" selected>PT</option>
+                <option data-url="/en">EN</option>
+                <option data-url="/es">ES</option>
+            </select>
+        </li>
+    </ul>
+  </div>
+</nav>
