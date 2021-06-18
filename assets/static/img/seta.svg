@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="14px" viewBox="0 0 26 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.235294 0 0 0 0 0.235294 0 0 0 0 0.231373 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1292.000000, -82.000000)">
+            <g id="Group-3" transform="translate(122.000000, 74.000000)" filter="url(#filter-1)">
+                <g transform="translate(1183.000000, 15.000000) rotate(-270.000000) translate(-1183.000000, -15.000000) translate(1176.500000, 2.500000)">
+                    <polygon id="Combined-Shape" fill="#000000" points="2.12867054 0.5 0.433333333 2.45421465 10.8591817 14.5 12.5666667 12.5317826"></polygon>
+                    <polygon id="Combined-Shape" fill="#000000" transform="translate(6.500000, 17.500000) scale(-1, 1) translate(-6.500000, -17.500000) " points="2.12867054 10.5 0.433333333 12.4542146 10.8591817 24.5 12.5666667 22.5317826"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
