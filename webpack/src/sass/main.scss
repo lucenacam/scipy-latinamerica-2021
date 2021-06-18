@@ -13,18 +13,27 @@ body {
   @include button-variant(#3c3c3b, #3c3c3b, lighten(#3c3c3b, 20%), lighten(#3c3c3b, 20%));
   color: #fff;
   border-radius: 9px;
-
+  padding-right:  48px;
+  padding-left:  48px;
   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1 em;
 }
 
 #section-home, #section-sobre {
   background-color: #fafafa;
-  background-image: linear-gradient(#f6f6f6,#fff);
-  height: 900px;
+  background-image: linear-gradient(0.180turn,#f6f6f6,#fff);
+  padding-top: 52px;
+  padding-bottom: 52px;
 
-  .scipy-title {
+
+  .scipy-text {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+  .scipy-title, {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
     color: #00ad4a;
@@ -40,7 +49,8 @@ body {
 
 #section-covid {
   background-color: #3c3c3b;
-  height: 900px;
+  padding-top: 52px;
+  padding-bottom: 52px;
 
   .covid-text {
     font-family: 'Lato', sans-serif;
@@ -51,7 +61,9 @@ body {
 
 #section-inscricao {
   background-color: #3c3c3b;
-  height: 900px;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  height: 408px;
 
   .inscricao-background {
     position: absolute;
@@ -66,14 +78,63 @@ body {
   }
 
   .card-inscricao {
+    border-radius: 9px;
     background-color: #00ad4a;
-    background-image: linear-gradient(#00ad4a,#00ee53);
+    background-image: linear-gradient(0.180turn,#00ad4a,#00ee53);
   }
-  .covid-text {
+
+  .inscricao-text {
     font-family: 'Lato', sans-serif;
-    font-size: 1 em;
+    font-size: 24px;
     color: #fff;
   }
+
+}
+
+#section-rodape {
+  background-color: #3c3c3b;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  min-height: 256px;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  #menu-rodape ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+
+    li {
+      display: inline;
+
+      &:first-child {
+        a {
+          padding: 2px 10px 2px 0;
+        }
+      }
+
+      a {
+        padding: 2px 10px;
+        display: inline-block;
+        font-size: 26px;
+        font-weight: 600;
+        color: #fff;
+        text-decoration: none;
+
+        &:hover {
+          font-weight: bold;
+          color: #00AD4A;
+        }
+      }
+    }
+  }
+
+  .rodape-desenvolvido {
+    padding-top: 100px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #fff;
+  }
+
 }
 
 .dropdown-toggle::after{
