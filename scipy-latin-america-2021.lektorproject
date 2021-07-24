@@ -28,4 +28,4 @@ url_prefix = /en/
 locale = en
 
 [servers.ghpages]
-target = ghpages://lucenacam/scipy-latinamerica-2021
+target = ghpages://lucenacam/scipy-latinamerica-2021?cname=dev.scipy.lat
