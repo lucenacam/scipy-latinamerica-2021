@@ -37,7 +37,7 @@ module.exports = (env, options) => ({
         test: /\.(sa|sc|c)ss$/,
         use: [
           MiniCssExtractPlugin.loader,
-          'css-loader',
+          'css-loader?url=false',
           'postcss-loader',
           'sass-loader',
         ],
@@ -82,5 +82,8 @@ module.exports = (env, options) => ({
     filename: "[name].js",
     path: path.dirname(__dirname) + '/assets/static/dist',
     publicPath: "",
+  },
+  stats: {
+    children: true,
   }
 });
