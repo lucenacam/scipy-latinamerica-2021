@@ -44,7 +44,8 @@ html {
 body, p {
 	color: #3C3C3B;
 	font-family: 'Lato', sans-serif;
-	font-size: calc(0.3rem + .9vw);
+	font-size: 1.125rem;
+  line-height: 1.5rem;
 }
 
 h1 {
@@ -86,15 +87,15 @@ h5 {
 }
 
 h6 {
-	color: #191e47;
-	font-weight: 700;
-	font-size: 1rem;
+	color: #3c3c3b;
+	font-weight: 300;
+	font-size: 0.90rem;
 	line-height: 1.375rem;
 }
 
 .p-large {
 	font-size: 1.125rem;
-	line-height: 1.75rem;
+	line-height: 1.5rem;
 }
 
 .p-small {
@@ -117,13 +118,13 @@ h6 {
 }
 
 a {
-	color: #6c717b;
-	text-decoration: underline;
+	color: #00ad4a;
+	text-decoration: none;
 }
 
 a:hover {
-	color: #6c717b;
-	text-decoration: underline;
+	color: #3c3c3b;
+	text-decoration: none;
 }
 
 .no-line {
@@ -163,22 +164,31 @@ a:hover {
 
 .btn-solid-lg {
 	display: inline-block;
-	padding: 1.5rem 5rem 1.5rem 5rem;
+	padding: 1.25rem 7rem 1.25rem 7rem;
 	border-radius: 30px;
+  background-image: linear-gradient(to right, #00ad4a 0%,  #00ee53  100%);
 	background-color: #00AD4A;
 	color: #ffffff;
-	font-weight: 600;
-	font-size: 0.875rem;
+	font-weight: 300;
+  font-size: 1rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-solid-lg:hover {
-	background-color:  #008238;
-	color: #fff; /* needs to stay here because of the color property of a tag */
-	text-decoration: none;
+  display: inline-block;
+  padding: 1.25rem 7rem 1.25rem 7rem;
+  border-radius: 30px;
+  background-image: linear-gradient(to right, #3c3c3c 0%,  #3c3c3b 100%);
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 0;
+  text-decoration: none;
+  transition: all 0.2s;
 }
+
 
 .btn-outline-reg {
 	display: inline-block;
@@ -254,9 +264,9 @@ a:hover {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #ffffff;
-	font-weight: 600;
-	font-size: 0.875rem;
+	background-color: #3c3c3b;
+	font-weight: 300;
+	font-size: 1.15rem;
 	line-height: 0.875rem;
 	box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
   // margin-top: 70px;
@@ -297,7 +307,7 @@ a:hover {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #191e47;
+	color: #3C3C3B;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -305,7 +315,7 @@ a:hover {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #000;
+	color: #00ad4a;
 }
 
 /* Dropdown Menu */
@@ -469,7 +479,6 @@ a:hover {
 .basic-2 {
 	position: relative;
 	padding-top: 9.5rem;
-	padding-bottom: 9.5rem;
 }
 
 .basic-2 .decoration-star {
@@ -627,13 +636,14 @@ a:hover {
 /*     Invitation     */
 /**********************/
 .basic-4 {
-	padding-top: 8rem;
-	padding-bottom: 8rem;
+	padding-top: 6.75rem;
+	padding-bottom: 6.75rem;
 	text-align: center;
 }
 
 .basic-4 h1 {
   margin-bottom: 3.5rem;
+  margin-top: -1rem;
 }
 
 .basic-4 h4 {
@@ -787,8 +797,9 @@ a:hover {
 /*     Footer     */
 /******************/
 .footer {
-	padding-top: 6.5rem;
-	padding-bottom: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color:#3c3c3b;
 }
 
 .footer a {
@@ -845,6 +856,7 @@ a:hover {
 /*     Copyright     */
 /*********************/
 .copyright {
+  background-color: #3c3c3b;
 	padding-bottom: 1rem;
 	text-align: center;
 	opacity: 0.9;
@@ -1024,7 +1036,7 @@ a:hover {
 
 	/* Navigation */
 	.navbar {
-		padding-top: 1.75rem;
+		padding-top: 3rem;
 		background-color: #ffffff;
 		box-shadow: none;
 		transition: all 0.2s;
@@ -1065,8 +1077,8 @@ a:hover {
 	}
 	
 	.navbar .nav-item .nav-link {
-		padding-right: 0.75rem;
-		padding-left: 0.75rem;
+		padding-right: 1rem;
+		padding-left: 1rem;
 	}
 
 	.navbar .dropdown-menu {
@@ -1161,7 +1173,7 @@ a:hover {
 
 	/* Invitation */
 	.basic-4 h4 {
-		width: 48rem;
+		width: 40rem;
 		margin-right: auto;
 		margin-left: auto;
 	}
@@ -1293,6 +1305,7 @@ a:hover {
 		display: flex;
    	 justify-content: flex-start;
     align-items: center;
+    width: 100%;
 	}
 	/* end of header */
 
@@ -1327,7 +1340,7 @@ a:hover {
 	}
 
 	.basic-2 .text-container {
-		margin-top: 5rem;
+		// margin-top: 5rem;
 		margin-left: 2.5rem;
 	}
 

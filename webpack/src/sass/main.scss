@@ -1,12 +1,12 @@
 @import "fonts";
 @import "variables";
-@import "~bootstrap/scss/bootstrap";
-@import "~bootstrap-select/sass/bootstrap-select.scss";
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/solid.scss";
 @import "fontawesome/regular.scss";
 @import "fontawesome/brands.scss";
-@import "~bootstrap-icons/font/bootstrap-icons.css";
+@import "flag-icon-css/sass/flag-icon";
 
 @font-face {
   font-family: "bootstrap-icons";
@@ -85,9 +85,16 @@
 }
 
 .subscription-text {
-  font-size: 21px;
-  font-weight: 400;
+  font-size: 1.3rem;
+  font-weight: 300;
   color: #fff;
+}
+
+.p-copyright{
+  font-family: 'Source Sans Pro';
+  color: #fff;
+  text-align: center;
+  margin-left: 1rem;
 }
 
 @media only screen and (max-width: 990px){
@@ -99,3 +106,55 @@
 //   font-family: "bootstrap-icons";
 //   content:'\f282';
 // }
+
+.header-image {
+  max-width: 90%;
+  height: auto;
+}
+
+.row-align-center {
+  align-items: center;
+}
+
+.header-title-margin {
+  margin-bottom: 3rem;
+}
+
+.p-footer{
+  font-family: 'Source Sans Pro';
+  color: #fff;
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.navbar-nav-footer{
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  align-items: flex-start;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; }
+  @media (prefers-reduced-motion: reduce) {
+    .nav-link {
+      transition: none; } }
+  .nav-link:hover, .nav-link:focus {
+    color: #00ad4a; }
+  .nav-link.disabled {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: default;
+  }
+
+.navbar .nav-item.dropdown.show .nav-link,
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link.active {
+  color: #00ad4a;
+}
