@@ -1,6 +1,10 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
+    {% include "menu.html" %}
+    {% include "section-header.html" %}
+    {% include "section-countdown.html" %}
+    {% include "section-about.html" %}
+    {% include "section-subscription.html" %}
+    {% include "section-footer.html" %}
 {% endblock %}
