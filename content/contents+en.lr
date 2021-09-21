@@ -12,7 +12,7 @@ ogimage_width: 1200
 ---
 title: SciPy Latin America 2021
 ---
-subscription_form_url: http://www.globo.com
+subscription_form_url: https://forms.gle/UDJvzG4Po31MFErV6
 ---
 about_conference_body:
 
@@ -45,3 +45,47 @@ Contribua com a sua experiência para a SciPy Latin America 2021 clicando no bot
 Esperamos você!
 ---
 subscription_title: Você é um bom palestrante?
+---
+code_of_conduct:
+
+#### file ####
+description: Código de Conduta
+----
+attachment: codigo-de-conduta-pt.pdf
+---
+follow_media_message: Siga nossas redes:
+---
+footer_message: 2021 - criado pela comunidade @scipylat
+---
+social_media:
+
+#### social ####
+name: Facebook
+----
+icon: 
+----
+link: https://www.facebook.com/scipyla/
+#### social ####
+name: Instagram
+----
+icon: 
+----
+link: https://www.instagram.com/scipyla/
+#### social ####
+name: Twitter
+----
+icon: 
+----
+link: https://twitter.com/scipyla
+#### social ####
+name: Youtube
+----
+icon: 
+----
+link: https://www.youtube.com/c/SciPyLA
+#### social ####
+name: Linkedin
+----
+icon: 
+----
+link: https://www.linkedin.com/company/scipy-latin-america/about/
