@@ -1,3 +1,7 @@
+_model: conference
+---
+_template: page.html
+---
 author: Scipy Latin America Community
 ---
 body: 
