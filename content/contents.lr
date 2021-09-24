@@ -4,11 +4,11 @@ description: Bem-vindo a SciPy Latin America 2021!
 ---
 body: 
 ---
-ogimage: https://s2.glbimg.com/dIAvQd088MUIcM7J3vIPngtFNYo=/e.glbimg.com/og/ed/f/original/2021/07/02/juliane-moore.jpg
+ogimage: https://pbs.twimg.com/profile_banners/3045030161/1626653950/1500x500
 ---
-ogimage_height: 800
+ogimage_height: 500
 ---
-ogimage_width: 1200
+ogimage_width: 1500
 ---
 author: Comunidade Scipy Latin America
 ---
@@ -19,32 +19,31 @@ conference_title:
 # 8ª Conferência
 <h1 class="header-title-margin">SciPy América Latina</h1>
 ---
-conference_action_button: Participe
+conference_action_button: Participe agora
 ---
-conference_body: <p class="p-large">A 8ª conferência sobre Ciências da Computação com Python da América Latina está chegando e ocorrerá nos dias 13 e 14 de novembro, 100% online e gratuita. <b>As incrições para os palestrantes do evento estão abertas e vão até o dia 30 de agosto!</b> Inscreva-se e participe dessa nova experiência.</p>
+conference_body: <p class="p-large">A 8ª conferência latino americana de python científico acontecerá <b>em 11-12 de dezembro, 100% online e gratuita</b>. A conferência SciPy reúne anualmente entusiastas, desenvolvedores, acadêmicos e empresas com o intuito de mostrar seus projetos científicos, soluções mais recentes e principalmente trocar experiências. <b>As inscrições para os palestrantes estão abertas e vão até o dia 1 de novembro!</b> </p>
 ---
 about_conference_body:
 
-SciPy é uma biblioteca Python utilizada por matemáticos, cientistas e engenheiros, sendo também nome da conferência anual de ciências da computação com Python, que apresenta projetos de diversas áreas com o objetivo de  colaborar com desenvolvimento de códigos  através da troca de experiências.
+A [SciPy Latam](https://t.me/scipyla) é uma comunidade com o propósito de promover a ciência, a computação, e principalmente o uso da linguagem Python na resolução de problemas científicos. São inúmeros os exemplos de colaboração de pesquisadores, desenvolvedores e entusiastas da comunidade traduzidos em artigos, eventos, bibliotecas científicas e softwares open source nas mais diversas áreas das ciências exatas, biológicas, humanas, e da terra, etc. 
 
-A 8ª Edição do SciPy América Latina está sendo organizada por sua comunidade brasileira e será realizada em ambiente 100% virtual nos dias 13 e 14 de novembro. [Confira o código de conduta do evento clicando aqui](http://dev.scipy.lat/codigo-de-conduta-pt.pdf), e te esperamos lá!
+O ponto alto da comunidade é a nossa conferência anual que reúne centenas de membros e desde 2013 já teve a oportunidade de visitar 3 países: Argentina, Brasil, Colômbia. Em decorrência da pandemia de Covid-19, a <b>Scipy Latin America 2020</b>, que seria realizada em Recife (Brasil) teve que ser cancelada. Para o ano de 2021,  estamos nos adaptando ao contexto mundial e inspirados por eventos similares, decidimos realizar a conferência no formato virtual.
 
-###### Nota da Organização:
+Nossa chamada de trabalho já está aberta e segue até o dia <b>1 de Novembro</b>. Fique antenado nas nossas redes sociais para o anúncio dos keynotes e mais informações do evento. Não deixe de participar!
 
-###### Em decorrência da pandemia do novo coronavírus, a organização responsável pelo evento SciPy Latam 2020 decidiu postergar a edição (que até então seria realizada no Brasil de forma presencial) com o objetivo de traçar uma nova estratégia para oferecer um evento 100% virtual.
----
-about_conference_title: Sobre SciPy Latam
----
-countdown_message: Tempo restante até o evento:
----
-subscription_action_button: Participe
----
-subscription_title: Você é um bom palestrante?
----
-subscription_body:
+###### Acha que pode contribuir? Para realização do evento, o apoio de voluntários é essencial. Mais detalhes no nosso [formulário de inscrição de voluntários](link-voluntarios).
 
-Contribua com a sua experiência para a SciPy Latin America 2021 clicando no botão abaixo e preenchendo o formulário de apresentação.
-Esperamos você!
+###### Confira o código de conduta do evento clicando [aqui](http://dev.scipy.lat/codigo-de-conduta-pt.pdf)
+---
+about_conference_title: Sobre a SciPy Latam
+---
+countdown_message: Tempo até o evento:
+---
+subscription_action_button: Participe agora
+---
+subscription_title: Quer palestrar?
+---
+subscription_body: Estamos abrindo nossa chamada de propostas! Acesse nosso formulário para palestrantes clicando no botão abaixo e contribua com nosso conteúdo.
 ---
 footer_message: 2021 - criado pela comunidade @scipylat
 ---
@@ -81,7 +80,7 @@ icon:
 ----
 link: https://www.linkedin.com/company/scipy-latin-america/about/
 ---
-follow_media_message: Siga nossas redes:
+follow_media_message: Siga-nos em nossas redes sociais:
 ---
 code_of_conduct:
 

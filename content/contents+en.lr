@@ -4,11 +4,11 @@ body:
 ---
 description: Welcome to SciPy Latin America 2021!
 ---
-ogimage: https://s2.glbimg.com/dIAvQd088MUIcM7J3vIPngtFNYo=/e.glbimg.com/og/ed/f/original/2021/07/02/juliane-moore.jpg
+ogimage: https://pbs.twimg.com/profile_banners/3045030161/1626653950/1500x500
 ---
-ogimage_height: 800
+ogimage_height: 500
 ---
-ogimage_width: 1200
+ogimage_width: 1500
 ---
 title: SciPy Latin America 2021
 ---
@@ -26,18 +26,18 @@ A 8ª Edição do SciPy América Latina está sendo organizada por sua comunidad
 ---
 about_conference_title: About SciPy Latam
 ---
-conference_action_button: Participe
+conference_action_button: Submit now
 ---
-conference_body: <p class="p-large">A 8ª conferência sobre Ciências da Computação com Python da América Latina está chegando e ocorrerá nos dias 13 e 14 de novembro, 100% online e gratuita. <b>As incrições para os palestrantes do evento estão abertas e vão até o dia 30 de agosto!</b> Inscreva-se e participe dessa nova experiência.</p>
+conference_body: <p class="p-large">The 8th Latin American scientific python conference will be held <b>December 11-12, 100% online and free</b>. The SciPy conference annually brings together enthusiasts, developers, academics and companies in order to show their latest projects and solutions and mainly exchange experiences. <b>Registration for speakers is open and runs until November 1st!</b> </p>
 ---
 conference_title:
 
-# 8ª Conferência
-<h1 class="header-title-margin">SciPy América Latina</h1>
+# 8th Conference
+<h1 class="header-title-margin">SciPy Latin America</h1>
 ---
-countdown_message: Time left until event:
+countdown_message: Time until event:
 ---
-subscription_action_button: Participe
+subscription_action_button: Submit now
 ---
 subscription_body:
 
@@ -49,13 +49,13 @@ subscription_title: Você é um bom palestrante?
 code_of_conduct:
 
 #### file ####
-description: Código de Conduta
+description: Code of Conduct
 ----
-attachment: codigo-de-conduta-pt.pdf
+attachment: code-of-conduct-en.pdf
 ---
-follow_media_message: Siga nossas redes:
+follow_media_message: Follow us in our social media channels:
 ---
-footer_message: 2021 - criado pela comunidade @scipylat
+footer_message: 2021 - created by @scipylat community
 ---
 social_media:
 

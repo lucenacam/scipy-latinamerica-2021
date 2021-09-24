@@ -4,11 +4,11 @@ body:
 ---
 description: Bienvenido a SciPy Latin America 2021!
 ---
-ogimage: https://s2.glbimg.com/dIAvQd088MUIcM7J3vIPngtFNYo=/e.glbimg.com/og/ed/f/original/2021/07/02/juliane-moore.jpg
+ogimage: https://pbs.twimg.com/profile_banners/3045030161/1626653950/1500x500
 ---
-ogimage_height: 800
+ogimage_height: 500
 ---
-ogimage_width: 1200
+ogimage_width: 1500
 ---
 title: SciPy Latin America 2021
 ---
@@ -24,20 +24,20 @@ A 8ª Edição do SciPy América Latina está sendo organizada por sua comunidad
 
 ###### Em decorrência da pandemia do novo coronavírus, a organização responsável pelo evento SciPy Latam 2020 decidiu postergar a edição (que até então seria realizada no Brasil de forma presencial) com o objetivo de traçar uma nova estratégia para oferecer um evento 100% virtual.
 ---
-about_conference_title: Sobre SciPy Latam
+about_conference_title: Acerca de SciPy Latam
 ---
-conference_action_button: Participe
+conference_action_button: Aplique ahora!
 ---
-conference_body: <p class="p-large">A 8ª conferência sobre Ciências da Computação com Python da América Latina está chegando e ocorrerá nos dias 13 e 14 de novembro, 100% online e gratuita. <b>As incrições para os palestrantes do evento estão abertas e vão até o dia 30 de agosto!</b> Inscreva-se e participe dessa nova experiência.</p>
+conference_body: <p class = "p-large"> La octava conferencia científica latinoamericana sobre pitones se llevará a cabo <b> del 11 al 12 de diciembre, 100% en línea y gratis </b>. La conferencia SciPy reúne anualmente a entusiastas, desarrolladores, académicos y empresas con el fin de mostrar sus últimos proyectos y soluciones y principalmente intercambiar experiencias. <b> ¡La inscripción para oradores está abierta y se extiende hasta el 1 de noviembre! </b> </p>
 ---
 conference_title:
 
-# 8ª Conferência
-<h1 class="header-title-margin">SciPy América Latina</h1>
+# 8ª Conferencia
+<h1 class="header-title-margin">SciPy Latinoamericana</h1>
 ---
-countdown_message: Tiempo restante hasta el evento:
+countdown_message: Tiempo hasta el evento:
 ---
-subscription_action_button: Participe
+subscription_action_button: Aplique ahora!
 ---
 subscription_body:
 
@@ -49,13 +49,13 @@ subscription_title: Você é um bom palestrante?
 code_of_conduct:
 
 #### file ####
-description: Código de Conduta
+description: Código de Conducta
 ----
-attachment: codigo-de-conduta-pt.pdf
+attachment: codigo-de-conducta-es.pdf
 ---
-follow_media_message: Siga nossas redes:
+follow_media_message: Síguenos en nuestras redes sociales:
 ---
-footer_message: 2021 - criado pela comunidade @scipylat
+footer_message: 2021 - creado por la comunidad @scipylat
 ---
 social_media:
 
