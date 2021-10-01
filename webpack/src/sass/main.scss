@@ -158,3 +158,52 @@
 .navbar .nav-item .nav-link.active {
   color: #00ad4a;
 }
+
+
+.cdc{
+
+  font-family: 'Lato', sans-serif;
+  color: #3C3C3B;
+
+  .title {
+    font-weight: 600;
+    font-size: 3rem;
+    text-align: left;
+    padding-bottom: 50px;
+  }
+
+  h1 {
+    color: #3C3C3B;
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+
+  p {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: left;
+    padding-bottom: 10px;
+
+    b {
+      font-weight: 600;
+      color: #00AD4A;
+      text-align: left;
+    }
+  }
+
+  ul {
+    li {
+      text-align: left;
+      font-weight: 600;
+
+      span.red {
+        color: #e90045;
+      }
+      span.green {
+        color: #00A846;
+      }
+    }
+  }
+}

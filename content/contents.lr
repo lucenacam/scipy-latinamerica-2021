@@ -35,9 +35,6 @@ O ponto alto da comunidade é a nossa conferência anual que reúne centenas de 
 
 Nossa chamada de trabalho já está aberta e segue até o dia <b>1 de Novembro</b>. Fique antenado nas nossas redes sociais para o anúncio dos keynotes e mais informações do evento. Não deixe de participar!
 
-###### Acha que pode contribuir? Para realização do evento, o apoio de voluntários é essencial. Mais detalhes no nosso [formulário de inscrição de voluntários](link-voluntarios).
-
-###### Confira o código de conduta do evento clicando [aqui](http://dev.scipy.lat/codigo-de-conduta-pt.pdf)
 ---
 about_conference_title: Sobre a SciPy Latam
 ---
@@ -47,7 +44,7 @@ subscription_action_button: Participe agora
 ---
 subscription_title: Quer palestrar?
 ---
-subscription_body: Estamos abrindo nossa chamada de propostas! Acesse nosso formulário para palestrantes clicando no botão abaixo e contribua com nosso conteúdo.
+subscription_body: Estamos com nossa chamada de propostas aberta! Acesse nosso formulário para palestrantes clicando no botão abaixo e contribua com nosso conteúdo.
 ---
 footer_message: 2021 - criado pela comunidade @scipylat
 ---
@@ -86,9 +83,4 @@ link: https://www.linkedin.com/company/scipy-latin-america/about/
 ---
 follow_media_message: Siga-nos em nossas redes sociais:
 ---
-code_of_conduct:
-
-#### file ####
-description: Código de Conduta
-----
-attachment: codigo-de-conduta-pt.pdf
+code_of_conduct: 
