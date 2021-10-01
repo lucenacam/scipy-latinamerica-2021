@@ -20,13 +20,11 @@ subscription_form_url: https://forms.gle/W9ZJbJy4sZyQQmFC9
 ---
 about_conference_body:
 
-SciPy é uma biblioteca Python utilizada por matemáticos, cientistas e engenheiros, sendo também nome da conferência anual de ciências da computação com Python, que apresenta projetos de diversas áreas com o objetivo de  colaborar com desenvolvimento de códigos  através da troca de experiências.
+[SciPy Latam](https://t.me/scipyla) es una comunidad con el propósito de promover la ciencia, la computación y especialmente el uso del lenguaje Python en la resolución de problemas científicos. Existen innumerables ejemplos de colaboración de investigadores, desarrolladores y entusiastas de la comunidad traducidos en artículos, eventos, bibliotecas científicas y software de código abierto en las más diversas áreas de las ciencias exactas, biológicas, humanas y de la tierra, etc.
 
-A 8ª Edição do SciPy América Latina está sendo organizada por sua comunidade brasileira e será realizada em ambiente 100% virtual nos dias 13 e 14 de novembro. [Confira o código de conduta do evento clicando aqui,](http://www.globo.com) e te esperamos lá!
+Lo más destacado de la comunidad es nuestra conferencia anual que reúne a cientos de miembros y desde 2013 ha tenido la oportunidad de visitar 3 países: Argentina, Brasil, Colombia. Como consecuencia de la pandemia Covid-19, la <b> Scipy Latin America 2020 </b>, que se iba a celebrar en Recife (Brasil), tuvo que ser cancelada. Para el año 2021, nos estamos adaptando al contexto mundial y, inspirados en eventos similares, decidimos realizar la conferencia en formato virtual.
 
-###### Nota da Organização:
-
-###### Em decorrência da pandemia do novo coronavírus, a organização responsável pelo evento SciPy Latam 2020 decidiu postergar a edição (que até então seria realizada no Brasil de forma presencial) com o objetivo de traçar uma nova estratégia para oferecer um evento 100% virtual.
+Nuestra convocatoria de trabajo ya está abierta y se extenderá hasta el <b> 1 de noviembre </b>. Manténgase atento a nuestras redes sociales para conocer los anuncios principales y más información sobre eventos. Asegúrate de participar!
 ---
 about_conference_title: Acerca de SciPy Latam
 ---
@@ -43,12 +41,9 @@ countdown_message: Tiempo hasta el evento:
 ---
 subscription_action_button: Aplique ahora!
 ---
-subscription_body:
-
-Contribua com a sua experiência para a SciPy Latin America 2021 clicando no botão abaixo e preenchendo o formulário de apresentação.
-Esperamos você!
+subscription_body: ¿Querer hablar?  ¡Tenemos abierta nuestra convocatoria de propuestas! Acceda a nuestro formulario de orador haciendo clic en el botón de abajo y contribuya con nuestro contenido.
 ---
-subscription_title: Você é um bom palestrante?
+subscription_title: Querer hablar?
 ---
 code_of_conduct: 
 ---
