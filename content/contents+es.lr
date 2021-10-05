@@ -20,7 +20,7 @@ subscription_form_url: https://forms.gle/W9ZJbJy4sZyQQmFC9
 ---
 about_conference_body:
 
-[SciPy Latam](https://t.me/scipyla) es una comunidad con el propósito de promover la ciencia, la computación y especialmente el uso del lenguaje Python en la resolución de problemas científicos. Existen innumerables ejemplos de colaboración de investigadores, desarrolladores y entusiastas de la comunidad traducidos en artículos, eventos, bibliotecas científicas y software de código abierto en las más diversas áreas de las ciencias exactas, biológicas, humanas y de la tierra, etc.
+[SciPy Latam](https://t.me/scipyla) es una comunidad que busca de promover la ciencia, la computación y en especial el uso del lenguaje Python en la resolución de problemas científicos. Existen innumerables ejemplos de colaboración de investigadores, desarrolladores y entusiastas de la comunidad traducidos en artículos, eventos, bibliotecas científicas y software de código abierto en las más diversas áreas de las ciencias exactas, biológicas, humanas y de la tierra, etc.
 
 Lo más destacado de la comunidad es nuestra conferencia anual que reúne a cientos de miembros y desde 2013 ha tenido la oportunidad de visitar 3 países: Argentina, Brasil, Colombia. Como consecuencia de la pandemia Covid-19, la <b> Scipy Latin America 2020 </b>, que se iba a celebrar en Recife (Brasil), tuvo que ser cancelada. Para el año 2021, nos estamos adaptando al contexto mundial y, inspirados en eventos similares, decidimos realizar la conferencia en formato virtual.
 
@@ -28,9 +28,9 @@ Nuestra convocatoria de trabajo ya está abierta y se extenderá hasta el <b> 1 
 ---
 about_conference_title: Acerca de SciPy Latam
 ---
-conference_action_button: Aplique ahora!
+conference_action_button: Inscribase!
 ---
-conference_body: <p class = "p-large"> La octava conferencia científica latinoamericana sobre pitones se llevará a cabo <b> del 11 al 12 de diciembre, 100% en línea y gratis </b>. La conferencia SciPy reúne anualmente a entusiastas, desarrolladores, académicos y empresas con el fin de mostrar sus últimos proyectos y soluciones y principalmente intercambiar experiencias. <b> ¡La inscripción para oradores está abierta y se extiende hasta el 1 de noviembre! </b> </p>
+conference_body: <p class = "p-large"> La octava conferencia científica latinoamericana sobre Python se llevará a cabo <b> del 11 al 12 de diciembre, 100% en línea y gratis </b>. La conferencia SciPy reúne anualmente a entusiastas, desarrolladores, académicos y empresas con el fin de mostrar sus últimos proyectos y soluciones y principalmente intercambiar experiencias. <b> ¡La inscripción para oradores está abierta y se extiende hasta el 1 de noviembre! </b> </p>
 ---
 conference_title:
 
@@ -39,11 +39,11 @@ conference_title:
 ---
 countdown_message: Tiempo hasta el evento:
 ---
-subscription_action_button: Aplique ahora!
+subscription_action_button: Inscribase!
 ---
-subscription_body: ¿Querer hablar?  ¡Tenemos abierta nuestra convocatoria de propuestas! Acceda a nuestro formulario de orador haciendo clic en el botón de abajo y contribuya con nuestro contenido.
+subscription_body: ¿Quieres exponer?  ¡Tenemos abierta nuestra convocatoria de propuestas! Acceda a nuestro formulario de orador haciendo clic en el botón de abajo y contribuya con nuestro contenido.
 ---
-subscription_title: Querer hablar?
+subscription_title: ¿Quieres exponer?
 ---
 code_of_conduct: 
 ---
