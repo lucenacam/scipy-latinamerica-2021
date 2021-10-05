@@ -653,8 +653,9 @@ a:hover {
 
 .bg-image{
 	background-image: url("../img/bg-speakers.png");
-  overflow-y: hidden;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
 }
 
 /********************/
