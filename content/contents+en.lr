@@ -20,28 +20,28 @@ subscription_form_url: https://forms.gle/UDJvzG4Po31MFErV6
 ---
 about_conference_body:
 
-[SciPy Latam](https://t.me/scipyla) is a community with the purpose of promoting science, computing, and especially the use of the Python language in solving scientific problems. There are countless examples of collaboration from researchers, developers and community enthusiasts translated into articles, events, scientific libraries and open source software in the most diverse areas of exact, biological, human and earth sciences, etc.
+[SciPy Latam](https://t.me/scipyla) is a community with the purpose of promoting science, computing, and especially the use of the Python language in solving scientific problems. There are countless examples of collaboration from researchers, developers, and community enthusiasts translated into articles, events, scientific libraries, and open-source software in the most diverse areas of exact, biological, human, and earth sciences, etc.
 
-The highlight of the community is our annual conference that brings together hundreds of members and since 2013 it has had the opportunity to visit 3 countries: Argentina, Brazil, Colombia. As a result of the Covid-19 pandemic, the <b>Scipy Latin America 2020</b>, which was to be held in Recife (Brazil), had to be cancelled. For the year 2021, we are adapting to the world context and, inspired by similar events, we decided to hold the conference in virtual format.
+The highlight of the community is our annual conference that brings together hundreds of members and since 2013 we have had the opportunity to host it in 3 countries:: Argentina, Brazil, Colombia. As a result of the Covid-19 pandemic, the <b>Scipy Latin America 2020</b>, which was to be held in Recife (Brazil), had to be canceled. For the year 2021, we are adapting to the world context and, inspired by similar events, we decided to hold the conference in a virtual format.
 
-Our work call is now open and runs until <b>November 1</b>. Stay tuned on our social networks for keynote announcements and more event information. Be sure to participate!
+Our call for proposals is now open and it runs until <b>November 1</b>. Stay tuned on our social networks for keynote announcements and more information about the event. Make sure to participate!
 ---
 about_conference_title: About SciPy Latam
 ---
 conference_action_button: Submit now
 ---
-conference_body: <p class="p-large">The 8th Latin American scientific python conference will be held <b>December 11-12, 100% online and free</b>. The SciPy conference annually brings together enthusiasts, developers, academics and companies in order to show their latest projects and solutions and mainly exchange experiences. <b>Registration for speakers is open and runs until November 1st!</b> </p>
+conference_body: <p class="p-large">The 8th Latin American scientific python conference will be held on <b>December 11th & 12th, 100% online and free</b>. The SciPy conference brings together annually enthusiasts, developers, academics, and companies in order to show their latest projects, solutions and mainly exchange experiences. <b>Registration for speakers is open and runs until November 1st!</b> </p>
 ---
 conference_title:
 
-# 8th Conference
-<h1 class="header-title-margin">SciPy Latin America</h1>
+# 8th SciPy Latin
+<h1 class="header-title-margin">America Conference</h1>
 ---
-countdown_message: Time until event:
+countdown_message: Time until the event:
 ---
 subscription_action_button: Submit now
 ---
-subscription_body: We are with us chamada de propostas open! Access our form for speakers by clicking no button below and contribute with our content.
+subscription_body: Our call for proposals is open! Access our speakers form by clicking on the button below and contribute with our content.
 ---
 subscription_title: Do you want to speak?
 ---
