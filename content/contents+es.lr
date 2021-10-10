@@ -83,3 +83,9 @@ name: Linkedin
 icon: 
 ----
 link: https://www.linkedin.com/company/scipy-latin-america/about/
+---
+contact_action_button: Hable con nosotros
+---
+contact_body: ¿Preguntas sobre el evento? ¿Quieres patrocinar el evento? ¿Sugerencias? ¿Quejas? Visite nuestra página ["Preguntas frecuentes"](https://conf.scipy.lat/faq) o contáctenos directamente haciendo clic en el botón a continuación.
+---
+contact_title: ¿Quieres contactar con nosotros?
