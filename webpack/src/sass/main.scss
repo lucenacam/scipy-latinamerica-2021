@@ -80,7 +80,7 @@
 }
 
 .subscription-title {
-  // padding-bottom: 56px;
+  margin-top: 1rem !important;
   color: #fff;
 }
 
@@ -88,6 +88,17 @@
   font-size: 1.3rem;
   font-weight: 300;
   color: #fff;
+}
+
+.contact-title {
+  margin-top: 1rem !important;
+  color: #00AD4A;
+}
+
+.contact-text {
+  font-size: 1.3rem;
+  font-weight: 300;
+  color: #3C3C3B;
 }
 
 .p-copyright{
