@@ -1,5 +1,3 @@
-{%- from "macros/translation.html" import transbag -%}
-
 <!doctype html>
 <html lang="{{ this.alt }}">
   <head>
@@ -10,27 +8,6 @@
     <!-- SEO Meta Tags -->
     <meta name="author" content="{{ this.author }}">
     <meta name="description" content="{{ this.description }}">
-
-    <!-- OG Meta Tags -->
-    <meta property="og:locale" content="{{ this.alt }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ this.title }}" />
-    <meta property="og:description" content="{{ this.description }}" />
-    <meta property="og:url" content="{{ this|url(alt=this.alt, external=True) }}" />
-    <meta property="og:site" content="{{ this|url(alt=this.alt, external=True) }}" />
-    <meta property="og:site_name" content="{{ this.title }}" />
-    <meta property="og:updated_time" content="{{ now() }}" />
-
-    {%- block ogimage -%}
-    {% if this.ogimage %}
-    <meta property="og:image" content="{{ this.ogimage|url(external=True) }}" />
-    <meta property="og:image:secure_url" content="{{ this.ogimage|url(external=True) }}" />
-    <meta property="og:image:width" content="{{ this.ogimage_width }}" />
-    <meta property="og:image:height" content="{{ this.ogimage_height }}" />
-    {% endif %}
-    {%- endblock %}
-
-    {# <meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter --> #}
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "/static/img/favicon/apple-touch-icon.png"|asseturl }}">
@@ -46,7 +23,8 @@
     <link rel="stylesheet" href="{{ '/static/dist/app.css'|asseturl }}">
   </head>
 <body>
-    {% block body %}{% endblock body %}
+    {% block body %}
+    {% endblock body %}
     {% block bottom_scripts %}
     <script type=text/javascript src="{{ '/static/dist/app.js'|asseturl }}" charset="utf-8"></script>
     {{ generate_google_analytics() }}

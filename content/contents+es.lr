@@ -16,7 +16,7 @@ ogimage_width: 1500
 ---
 title: SciPy Latin America 2021
 ---
-subscription_form_url: https://forms.gle/W9ZJbJy4sZyQQmFC9
+subscription_form_url: ./forms/formulario-orador/
 ---
 about_conference_body:
 
@@ -86,6 +86,6 @@ link: https://www.linkedin.com/company/scipy-latin-america/about/
 ---
 contact_action_button: Hable con nosotros
 ---
-contact_body: ¿Preguntas sobre el evento? ¿Quieres patrocinar el evento? ¿Sugerencias? ¿Quejas? Visite nuestra página ["Preguntas frecuentes"](https://conf.scipy.lat/faq) o contáctenos directamente haciendo clic en el botón a continuación.
+contact_body: ¿Preguntas sobre el evento? ¿Quieres patrocinar el evento? ¿Sugerencias? ¿Quejas? Visite nuestra página ["Preguntas frecuentes"](./faq) o contáctenos directamente haciendo clic en el botón a continuación.
 ---
 contact_title: ¿Quieres contactar con nosotros?

@@ -16,7 +16,7 @@ ogimage_width: 1500
 ---
 author: Comunidade Scipy Latin America
 ---
-subscription_form_url: https://forms.gle/LAQrWahu2wBF5HRFA
+subscription_form_url: ./forms/formulario-palestrante/
 ---
 conference_title:
 
@@ -87,7 +87,7 @@ code_of_conduct:
 ---
 contact_action: Fale conosco
 ---
-contact_body: Dúvidas sobre evento? Deseja patrocinar o evento? Sugestões? Reclamações? Visite nossa página de ["perguntas frequentes"](https://conf.scipy.lat/faq) ou fale diretamente conosco clicando no botão abaixo.
+contact_body: Dúvidas sobre evento? Deseja patrocinar o evento? Sugestões? Reclamações? Visite nossa página de ["perguntas frequentes"](./faq) ou fale diretamente conosco clicando no botão abaixo.
 ---
 contact_title: Quer entrar em contato conosco?
 ---
