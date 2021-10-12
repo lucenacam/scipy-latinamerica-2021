@@ -658,6 +658,14 @@ a:hover {
   background-position: center top;
 }
 
+.bg-image-faq, .bg-image-cdc{
+  background-image: url("../img/cdc-header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+  min-height: 300px;
+}
+
 /********************/
 /*     Projects     */
 /********************/

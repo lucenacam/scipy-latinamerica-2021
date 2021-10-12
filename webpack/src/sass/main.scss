@@ -218,3 +218,47 @@
     }
   }
 }
+
+
+.faq {
+
+  color: #3C3C3B;
+  font-size: 1rem;
+  font-family: 'Lato', sans-serif;
+  padding-top: 50px;
+
+  .title {
+    color: #3C3C3B;
+    font-weight: 600;
+    font-size: 3rem;
+    padding-bottom: 50px;
+    text-align: left;
+    text-transform: uppercase;
+  }
+
+  p {
+    margin-bottom: 0;
+    text-align: left;
+  }
+
+  .faq-question {
+      color: #00AD4A;
+      font-size: 1rem;
+      font-weight: 600;
+      text-decoration: underline !important;
+      text-decoration-color: #00AD4A !important;
+      text-transform: uppercase !important;
+    }
+
+  .faq-answer {
+      font-size: 1rem;
+      font-weight: 300;
+      padding-bottom: 30px;
+
+      b {
+        font-weight: 600;
+        color: #00AD4A;
+      }
+
+    }
+}
