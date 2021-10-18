@@ -4,7 +4,9 @@ adicionado_em: 2021-10-15 10:30:00 -0300
 ---
 avatar: tatiana-al-chueyr.png
 ---
-bio: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+avatar_hover: tatiana-al-chueyr-hover.png
+---
+bio: Tatiana usa software livre e machine learning para melhorar a experiência de milhões de usuários da BBC. Formada em Engenharia da Computação pela Unicamp, já trabalhou no desenvolvimento de aplicações de imagens médicas, para o Ministério da Ciência e Tecnologia brasileiro. Trabalhou na Globo.com, desenvolvendo aplicações para o portal de notícias G1 e a plataforma semântica. Teve experiência no desenvolvimento de aplicações educacionais para EF (Education First). Trabalha na BBC há quase quatro anos, desenvolvendo plataformas  e sistemas de recomendação.
 ---
 cargo: Principal Data Engineer
 ---
@@ -22,3 +24,7 @@ link: https://github.com/tatiana
 social_network: twitter
 ----
 link: https://twitter.com/tati_alchueyr
+#### social ####
+social_network: linkedin
+----
+link: https://uk.linkedin.com/in/tatialchueyr
