@@ -273,6 +273,11 @@
 
 .modal-keynote {
 
+  .keynote-grid {
+    display: grid;
+    justify-content: center;
+  }
+
   font-family: 'Source Sans Pro', sans-serif;
 
   .title {

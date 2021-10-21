@@ -30,7 +30,7 @@ jobs:
         id: cached-poetry-dependencies
         uses: actions/cache@v2
         with:
-          path: .python_packages
+          path: .venv
           key: packages-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
       - name: Install dependencies
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
@@ -50,14 +50,18 @@ jobs:
         id: cached-yarn-dependencies
         uses: actions/cache@v2
         with:
-          path: .node_packages
+          path: ./webpack/node_modules
           key: packages-${{ runner.os }}-${{ hashFiles('**/webpack/yarn.lock') }}
       - name: Install dependencies
         if: steps.cached-yarn-dependencies.outputs.cache-hit != 'true'
-        run: yarn
+        run: cd webpack && yarn
 
       # -----------------------------
 
+      - name: Where I am
+        run: pwd
+      - name: Where I am
+        run: cd webpack
       - name: Where I am
         run: pwd
       - name: What we Have here
